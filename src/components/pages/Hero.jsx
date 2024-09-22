@@ -29,7 +29,7 @@ const Hero = () => {
 
   return (
     <motion.div
-      className="relative min-h-screen  overflow-hidden"
+      className="relative min-h-screen overflow-hidden"
       initial="hidden"
       animate="visible"
       variants={containerVariants}
